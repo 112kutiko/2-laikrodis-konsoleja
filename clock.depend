@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1583841054 source:d:\c++woër\clock\main.cpp
+	"tools.h"
+	"draw.h"
+
+1583265084 d:\c++woër\clock\tools.h
+	<windows.h>
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<typeinfo>
+	<sstream>
+	<bits/stdc++.h>
+	<time.h>
+	<math.h>
+
+1583322068 d:\c++woër\clock\draw.h
+
