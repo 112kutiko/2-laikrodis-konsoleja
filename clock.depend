@@ -17,3 +17,21 @@
 
 1583322068 d:\c++woër\clock\draw.h
 
+1583841054 source:d:\c++woër\2-laikrodis-konsoleja\main.cpp
+	"tools.h"
+	"draw.h"
+
+1583265084 d:\c++woër\2-laikrodis-konsoleja\tools.h
+	<windows.h>
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<typeinfo>
+	<sstream>
+	<bits/stdc++.h>
+	<time.h>
+	<math.h>
+
+1583322068 d:\c++woër\2-laikrodis-konsoleja\draw.h
+
